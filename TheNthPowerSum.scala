@@ -11,7 +11,3 @@ object TheNthPowerSum {
     println("= " + y.toLong + " [total " + time + "ms]")
   }
 }
-
-
-
-
